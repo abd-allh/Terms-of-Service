@@ -1,0 +1,9 @@
+body {
+  height: 90vh;
+}
+h1 {
+  text-align: center;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
